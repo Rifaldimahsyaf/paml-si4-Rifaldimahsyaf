@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome Rifaldi mahsyaf azmi!</ThemedText>
+        <ThemedText type="title">Welcome Rifaldi mahsyaf azmi sistem!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
