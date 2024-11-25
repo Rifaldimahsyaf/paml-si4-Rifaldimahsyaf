@@ -4,7 +4,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Rifaldi Mahsyaf Azmi </Text>
-      <Text style={styles.title}>sistem informasi</Text>
+      <Text style={styles.title}>sistem informasi-4</Text>
       <Text style={styles.title}>0702213154</Text>
     </View>
   );
